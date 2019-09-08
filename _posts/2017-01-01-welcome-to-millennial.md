@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "Welcome to Millennial Lauren!"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
